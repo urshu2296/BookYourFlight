@@ -13,19 +13,19 @@
 		046892BD2B7F0E4F008494A5 /* BookYourFlightTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892BC2B7F0E4F008494A5 /* BookYourFlightTests.swift */; };
 		046892C72B7F0E4F008494A5 /* BookYourFlightUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892C62B7F0E4F008494A5 /* BookYourFlightUITests.swift */; };
 		046892C92B7F0E4F008494A5 /* BookYourFlightUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892C82B7F0E4F008494A5 /* BookYourFlightUITestsLaunchTests.swift */; };
-		046892E52B7F209D008494A5 /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892DA2B7F209D008494A5 /* OptionView.swift */; };
-		046892E62B7F209D008494A5 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892DB2B7F209D008494A5 /* DatePickerView.swift */; };
-		046892E72B7F209D008494A5 /* SecureTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892DC2B7F209D008494A5 /* SecureTextFieldView.swift */; };
-		046892E82B7F209D008494A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892DD2B7F209D008494A5 /* ContentView.swift */; };
-		046892E92B7F209D008494A5 /* TwoTitleHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892DE2B7F209D008494A5 /* TwoTitleHeader.swift */; };
-		046892EA2B7F209D008494A5 /* PlaceholderField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892DF2B7F209D008494A5 /* PlaceholderField.swift */; };
-		046892EB2B7F209D008494A5 /* SearchResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892E02B7F209D008494A5 /* SearchResultsView.swift */; };
-		046892EC2B7F209D008494A5 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892E12B7F209D008494A5 /* SearchView.swift */; };
-		046892ED2B7F209D008494A5 /* GifImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892E22B7F209D008494A5 /* GifImage.swift */; };
-		046892EE2B7F209D008494A5 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892E32B7F209D008494A5 /* DashboardView.swift */; };
-		046892EF2B7F209D008494A5 /* IconImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892E42B7F209D008494A5 /* IconImageView.swift */; };
-		046892F32B7F20EB008494A5 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892F12B7F20EB008494A5 /* Helper.swift */; };
-		046892F42B7F20EB008494A5 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 046892F22B7F20EB008494A5 /* Model.swift */; };
+		04DDD3132B88805300ED233B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD3082B88805300ED233B /* ContentView.swift */; };
+		04DDD3142B88805300ED233B /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD3092B88805300ED233B /* DashboardView.swift */; };
+		04DDD3152B88805300ED233B /* PlaceholderField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD30A2B88805300ED233B /* PlaceholderField.swift */; };
+		04DDD3162B88805300ED233B /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD30B2B88805300ED233B /* SearchView.swift */; };
+		04DDD3172B88805300ED233B /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD30C2B88805300ED233B /* DatePickerView.swift */; };
+		04DDD3182B88805300ED233B /* IconImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD30D2B88805300ED233B /* IconImageView.swift */; };
+		04DDD3192B88805300ED233B /* SecureTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD30E2B88805300ED233B /* SecureTextFieldView.swift */; };
+		04DDD31A2B88805300ED233B /* SearchResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD30F2B88805300ED233B /* SearchResultsView.swift */; };
+		04DDD31B2B88805300ED233B /* GifImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD3102B88805300ED233B /* GifImage.swift */; };
+		04DDD31C2B88805300ED233B /* OptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD3112B88805300ED233B /* OptionView.swift */; };
+		04DDD31D2B88805300ED233B /* TwoTitleHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD3122B88805300ED233B /* TwoTitleHeader.swift */; };
+		04DDD3212B88808000ED233B /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD31F2B88808000ED233B /* Helper.swift */; };
+		04DDD3222B88808000ED233B /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04DDD3202B88808000ED233B /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,19 +55,19 @@
 		046892C22B7F0E4F008494A5 /* BookYourFlightUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BookYourFlightUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		046892C62B7F0E4F008494A5 /* BookYourFlightUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookYourFlightUITests.swift; sourceTree = "<group>"; };
 		046892C82B7F0E4F008494A5 /* BookYourFlightUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookYourFlightUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		046892DA2B7F209D008494A5 /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = OptionView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/OptionView.swift; sourceTree = "<group>"; };
-		046892DB2B7F209D008494A5 /* DatePickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DatePickerView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/DatePickerView.swift; sourceTree = "<group>"; };
-		046892DC2B7F209D008494A5 /* SecureTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SecureTextFieldView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/SecureTextFieldView.swift; sourceTree = "<group>"; };
-		046892DD2B7F209D008494A5 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/ContentView.swift; sourceTree = "<group>"; };
-		046892DE2B7F209D008494A5 /* TwoTitleHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TwoTitleHeader.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/TwoTitleHeader.swift; sourceTree = "<group>"; };
-		046892DF2B7F209D008494A5 /* PlaceholderField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PlaceholderField.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/PlaceholderField.swift; sourceTree = "<group>"; };
-		046892E02B7F209D008494A5 /* SearchResultsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchResultsView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/SearchResultsView.swift; sourceTree = "<group>"; };
-		046892E12B7F209D008494A5 /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SearchView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/SearchView.swift; sourceTree = "<group>"; };
-		046892E22B7F209D008494A5 /* GifImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GifImage.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/GifImage.swift; sourceTree = "<group>"; };
-		046892E32B7F209D008494A5 /* DashboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DashboardView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/DashboardView.swift; sourceTree = "<group>"; };
-		046892E42B7F209D008494A5 /* IconImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IconImageView.swift; path = ../../../../../Desktop/Working_Dir/myDev/FlightApp/FlightApp/Views/IconImageView.swift; sourceTree = "<group>"; };
-		046892F12B7F20EB008494A5 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Helper.swift; path = "../../../../../Desktop/Combine Practise/Combine Practise/Model/Helper.swift"; sourceTree = "<group>"; };
-		046892F22B7F20EB008494A5 /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Model.swift; path = "../../../../../Desktop/Combine Practise/Combine Practise/Model/Model.swift"; sourceTree = "<group>"; };
+		04DDD3082B88805300ED233B /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		04DDD3092B88805300ED233B /* DashboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		04DDD30A2B88805300ED233B /* PlaceholderField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceholderField.swift; sourceTree = "<group>"; };
+		04DDD30B2B88805300ED233B /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		04DDD30C2B88805300ED233B /* DatePickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
+		04DDD30D2B88805300ED233B /* IconImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IconImageView.swift; sourceTree = "<group>"; };
+		04DDD30E2B88805300ED233B /* SecureTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecureTextFieldView.swift; sourceTree = "<group>"; };
+		04DDD30F2B88805300ED233B /* SearchResultsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchResultsView.swift; sourceTree = "<group>"; };
+		04DDD3102B88805300ED233B /* GifImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GifImage.swift; sourceTree = "<group>"; };
+		04DDD3112B88805300ED233B /* OptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionView.swift; sourceTree = "<group>"; };
+		04DDD3122B88805300ED233B /* TwoTitleHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwoTitleHeader.swift; sourceTree = "<group>"; };
+		04DDD31F2B88808000ED233B /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
+		04DDD3202B88808000ED233B /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,8 +118,8 @@
 		046892AA2B7F0E4D008494A5 /* BookYourFlight */ = {
 			isa = PBXGroup;
 			children = (
-				046892F02B7F20BC008494A5 /* Model */,
-				046892D92B7F2084008494A5 /* Views */,
+				04DDD31E2B88805600ED233B /* Model */,
+				04DDD3072B88801300ED233B /* Views */,
 				046892AB2B7F0E4D008494A5 /* BookYourFlightApp.swift */,
 				046892AF2B7F0E4F008494A5 /* Assets.xcassets */,
 				046892B12B7F0E4F008494A5 /* Preview Content */,
@@ -152,29 +152,29 @@
 			path = BookYourFlightUITests;
 			sourceTree = "<group>";
 		};
-		046892D92B7F2084008494A5 /* Views */ = {
+		04DDD3072B88801300ED233B /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				046892DD2B7F209D008494A5 /* ContentView.swift */,
-				046892E32B7F209D008494A5 /* DashboardView.swift */,
-				046892DB2B7F209D008494A5 /* DatePickerView.swift */,
-				046892E22B7F209D008494A5 /* GifImage.swift */,
-				046892E42B7F209D008494A5 /* IconImageView.swift */,
-				046892DA2B7F209D008494A5 /* OptionView.swift */,
-				046892DF2B7F209D008494A5 /* PlaceholderField.swift */,
-				046892E02B7F209D008494A5 /* SearchResultsView.swift */,
-				046892E12B7F209D008494A5 /* SearchView.swift */,
-				046892DC2B7F209D008494A5 /* SecureTextFieldView.swift */,
-				046892DE2B7F209D008494A5 /* TwoTitleHeader.swift */,
+				04DDD3082B88805300ED233B /* ContentView.swift */,
+				04DDD3092B88805300ED233B /* DashboardView.swift */,
+				04DDD30C2B88805300ED233B /* DatePickerView.swift */,
+				04DDD3102B88805300ED233B /* GifImage.swift */,
+				04DDD30D2B88805300ED233B /* IconImageView.swift */,
+				04DDD3112B88805300ED233B /* OptionView.swift */,
+				04DDD30A2B88805300ED233B /* PlaceholderField.swift */,
+				04DDD30F2B88805300ED233B /* SearchResultsView.swift */,
+				04DDD30B2B88805300ED233B /* SearchView.swift */,
+				04DDD30E2B88805300ED233B /* SecureTextFieldView.swift */,
+				04DDD3122B88805300ED233B /* TwoTitleHeader.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		046892F02B7F20BC008494A5 /* Model */ = {
+		04DDD31E2B88805600ED233B /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				046892F12B7F20EB008494A5 /* Helper.swift */,
-				046892F22B7F20EB008494A5 /* Model.swift */,
+				04DDD31F2B88808000ED233B /* Helper.swift */,
+				04DDD3202B88808000ED233B /* Model.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -309,20 +309,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				046892E92B7F209D008494A5 /* TwoTitleHeader.swift in Sources */,
-				046892EC2B7F209D008494A5 /* SearchView.swift in Sources */,
-				046892E62B7F209D008494A5 /* DatePickerView.swift in Sources */,
-				046892E82B7F209D008494A5 /* ContentView.swift in Sources */,
-				046892ED2B7F209D008494A5 /* GifImage.swift in Sources */,
-				046892EF2B7F209D008494A5 /* IconImageView.swift in Sources */,
-				046892EA2B7F209D008494A5 /* PlaceholderField.swift in Sources */,
-				046892F42B7F20EB008494A5 /* Model.swift in Sources */,
-				046892EE2B7F209D008494A5 /* DashboardView.swift in Sources */,
+				04DDD31D2B88805300ED233B /* TwoTitleHeader.swift in Sources */,
+				04DDD3172B88805300ED233B /* DatePickerView.swift in Sources */,
+				04DDD31A2B88805300ED233B /* SearchResultsView.swift in Sources */,
+				04DDD3182B88805300ED233B /* IconImageView.swift in Sources */,
+				04DDD3162B88805300ED233B /* SearchView.swift in Sources */,
+				04DDD31B2B88805300ED233B /* GifImage.swift in Sources */,
+				04DDD3152B88805300ED233B /* PlaceholderField.swift in Sources */,
+				04DDD3222B88808000ED233B /* Model.swift in Sources */,
+				04DDD3132B88805300ED233B /* ContentView.swift in Sources */,
+				04DDD3142B88805300ED233B /* DashboardView.swift in Sources */,
 				046892AC2B7F0E4D008494A5 /* BookYourFlightApp.swift in Sources */,
-				046892EB2B7F209D008494A5 /* SearchResultsView.swift in Sources */,
-				046892F32B7F20EB008494A5 /* Helper.swift in Sources */,
-				046892E52B7F209D008494A5 /* OptionView.swift in Sources */,
-				046892E72B7F209D008494A5 /* SecureTextFieldView.swift in Sources */,
+				04DDD3212B88808000ED233B /* Helper.swift in Sources */,
+				04DDD3192B88805300ED233B /* SecureTextFieldView.swift in Sources */,
+				04DDD31C2B88805300ED233B /* OptionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

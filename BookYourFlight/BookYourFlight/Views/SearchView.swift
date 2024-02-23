@@ -1,6 +1,6 @@
 //
 //  SearchView.swift
-// BookYourFlight
+//  Combine Practise
 //
 //  Created by MAC on 10/02/24.
 //
