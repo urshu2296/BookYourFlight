@@ -27,7 +27,5 @@ This flight booking app is a demo project intended for learning purposes and und
 
 
 
-![App](https://github.com/urshu2296/BookYourFlight/assets/157149784/8032a5f0-e43f-475a-ace6-a231cd1a687e)
-
 
 
