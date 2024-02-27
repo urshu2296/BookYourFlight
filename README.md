@@ -1,4 +1,4 @@
-![simulator_screenshot_46B532A6-AAB9-4E05-9E11-2EE79B44AF71](https://github.com/urshu2296/BookYourFlight/assets/157149784/bf39a07d-69a6-4e56-be26-5947563acfa2)# BookYourFlight
+BookYourFlight
 This project is a flight booking app developed using SwiftUI, aimed at demonstrating the concept of environment objects for managing shared data across different screens. The app consists of three main screens: a login screen, a dashboard screen for inputting travel requirements, and a search loading screen.
 
 
